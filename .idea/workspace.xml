@@ -14,7 +14,7 @@
     <session id="-2065406778">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="1" />
@@ -57,7 +57,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smsforecast/Tasks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
+            <state relative-caret-position="1037">
               <caret line="76" column="76" selection-start-line="76" selection-start-column="76" selection-end-line="76" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -240,15 +240,16 @@
       <workItem from="1543899198603" duration="3873000" />
       <workItem from="1543905736107" duration="4640000" />
       <workItem from="1543936927852" duration="1281000" />
-      <workItem from="1543945487064" duration="932000" />
+      <workItem from="1543945487064" duration="289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58228000" />
+    <option name="totallyTimeSpent" value="57585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27876824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -336,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/smsforecast/Tasks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
+        <state relative-caret-position="1037">
           <caret line="76" column="76" selection-start-line="76" selection-start-column="76" selection-end-line="76" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
