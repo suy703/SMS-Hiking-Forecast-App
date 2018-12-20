@@ -9,7 +9,6 @@ SMS will be sent everyday at 6AM. Hiking forecast updates every 5 minutes. Reply
   <li>IntelliJ</li>
   <li>DigitialOcean</li>
   <li>WinSCP</li>
-  <li>WinSCP</li>
   <li>Putty</li>
   <li>Twilio</li>
   <li>ngrok</li>
