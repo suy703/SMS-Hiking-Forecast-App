@@ -1,5 +1,6 @@
 # Project: SMS Hiking Forecast App
-SMS will be sent everyday at 6AM. Hiking forecast updates every 5 minutes. Reply ? to check current forecast. Reply STOP to cancel all messages from us.
+
+<img src="ssapp.jpg" width="250" align="middle">
 
 ## Repository Location
 [SMS Hiking Forecast App Repository](https://github.com/suy703/SMS-Hiking-Forecast-App "SMS Hiking Forecast App Repository")
